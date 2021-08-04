@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤘, I'm Eduardo</h1>
-<h3 align="center">A passionate software architect located at Brasil.</h3>
+<h3 align="center">A passionate software architect located at Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardogrtt&label=Profile%20views&color=0e75b6&style=flat" alt="eduardogrtt" /> </p>
 
